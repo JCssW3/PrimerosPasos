@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a186d15-7ec8-4eb0-936a-5deffd69bcd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/AccesoAplicacion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/AdivinaNumero.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/Areas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/ArraysBidimensionales2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/ArryasBidimensionales.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/CalculosConMath.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/CompruebaMail.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/DeclaracionesOperadores.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/EjemploArray2D.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/EntradaEjemplo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/EntradaEjemplo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/EntradaNumeros.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/EvaluaEdad.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/Factorial.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/ManipulaCadenas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/ManipulaCadenas2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/ManipulaCadenas3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/PesoIdeal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/PrimeraClase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/UsoBucleFor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/UsoTallas$Talla.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/UsoTallas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/Variables.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/desuso/Empleados.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/desuso/Prueba.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/desuso/Pruebas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/BarraHerramientas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Blue Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Calculadora.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CambiaEstado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CambioEstado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CampoPassword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/ChequearFuente.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CierraTodos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CreandoMarcoCentrado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/CreandoMarcos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Cuadros_Dialogos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Dialogos/DialogsTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Dialogos/LayerLaunchTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Dialogos/LayerOptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Dialogos/Window.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/DisposicionMuelle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EjemploArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EjemploRadio.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EnColumnas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EscribiendoEnMarco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EventoDeRaton.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EventoDeTeclado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EventosRaton.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EventosTeclado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/EventosVentana.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/FocoEvento.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/FocoVentana.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Lamina.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaAcciones$AccionColor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaAcciones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaArea$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaArea$GestionaArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCaja.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCalculadora$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCalculadora$AccionOrden.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCalculadora$InsertaNumero.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCalculadora.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaChecks$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaChecks$ManejaChecks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaChecks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCombo$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCombo$EventoCombo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaCombo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConBotones$ColorFondo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConBotones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConFiguras.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConFiguras2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConFuentes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaConImagenes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaFoco$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaFoco$LanzaFocos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaFoco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaLayout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaLayout2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaLibre.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaMenuPopup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaMenus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaMuelle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPassword$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPassword$ComruebaPass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPassword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrincipal$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrincipal$OyenteNuevo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrincipal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaProcesador$FabricaMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaProcesador$GestionaEventos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaProcesador$PruebaEventoMenu.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaProcesador.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaProcesador2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrueba$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrueba$EscuchaTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaPrueba.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaRadio$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaRadio.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaRadioSintaxis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaSlider$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaSlider$EventoSlider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaSlider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaSpinner$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaSpinner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaTexto$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaTexto$DameTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LaminaTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Lamina_Cuadros_Dialogos$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Lamina_Cuadros_Dialogos$Accion_botones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Lamina_Cuadros_Dialogos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Layout1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/LibreDisposicion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MVentana.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoAcciones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoCaja.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoCalculadora.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoCentrado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoChecks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoCombo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConBotones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConDibujos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConDibujos2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConFuentes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConImagenes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConTeclas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoConTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoEmergente$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoEmergente$CierraTodos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoEmergente.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoFoco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoHerramientas$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoHerramientas$AccionColor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoHerramientas.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoLayout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoLibre.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoMenuEmergente.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoMenuPopup.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoMenus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoMuelle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPassword.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPrincipal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoProcesador.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoProcesador2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPrueba.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPruebaArea$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPruebaArea$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoPruebaArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoRadio.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoRadioSintaxis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoRaton.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoSlider.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoSliders.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoSpinner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoVentana.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/MarcoVentana2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Procesador.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/ProcesadorMejorado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Prueba.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaAcciones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaArea.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaChecks.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaComboBox.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaDibujo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaDibujo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaDisposiciones.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaEventos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaMenus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaSpinner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/PruebaTexto.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Red Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/SintaxisRadio.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Tipos_Cuadros_Dialogos.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/TrabajandoConFuentes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/TrabajandoConImagenes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/VariosOyentes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Yellow Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/justify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/underline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/iconos/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/miMarco.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Alumno.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Coche.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/DameLaHora.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Empleado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Empleado2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Furgoneta.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Jefatura.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Jefes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Persona.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/PruebaTemporizador.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/PruebaTemporizador2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/PruebaTemporizador3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Reloj$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Reloj$DameLaHora2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Reloj.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Reloj2$1DameLaHora2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Reloj2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/Trabajadores.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/UsoEmpleado.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/UsoPersona.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/poo/UsoVehiculo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/usoArrays.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/Blue Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/Red Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/Yellow Ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/justify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/out.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/paste.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/underline.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/iconos/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PrimerosPasos.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/PrimerosPasos/graficos/Controles.mmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/desuso/Prueba.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/desuso/Pruebas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/Controles.mmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/BarraHerramientas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/CampoPassword.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/CreandoMarcoCentrado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/EjemploArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/EjemploRadio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/MarcoMenuEmergente.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/MarcoSliders.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/PruebaArea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/PruebaChecks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/PruebaComboBox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/PruebaMenus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/PruebaSpinner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/SintaxisRadio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/componentes/Tipos_Cuadros_Dialogos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dialogos/DialogsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dialogos/LayerLaunchTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dialogos/LayerOptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dialogos/Window.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/ChequearFuente.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/CreandoMarcos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/EscribiendoEnMarco.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/PruebaDibujo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/PruebaDibujo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/TrabajandoConFuentes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/dibujar/TrabajandoConImagenes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/disposiciones/Calculadora.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/disposiciones/DisposicionMuelle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/disposiciones/Layout1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/disposiciones/LibreDisposicion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/disposiciones/PruebaDisposiciones.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/CambioEstado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/EventosRaton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/EventosTeclado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/EventosVentana.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/FocoEvento.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/FocoVentana.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/Prueba.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/PruebaAcciones.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/PruebaEventos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/PruebaTexto.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/eventos/VariosOyentes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/procesadores/Procesador.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/graficos/procesadores/ProcesadorMejorado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/AccesoAplicacion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/AdivinaNumero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/Areas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/ArraysBidimensionales2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/ArryasBidimensionales.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/CalculosConMath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/CompruebaMail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/DeclaracionesOperadores.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/EjemploArray2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/EntradaEjemplo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/EntradaEjemplo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/EntradaNumeros.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/EvaluaEdad.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/Factorial.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/ManipulaCadenas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/ManipulaCadenas2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/ManipulaCadenas3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/PesoIdeal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/PrimeraClase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/UsoArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/UsoBucleFor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/UsoTallas.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lenguaje/Variables.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/Coche.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/Furgoneta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/Jefes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/PruebaTemporizador.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/PruebaTemporizador2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/PruebaTemporizador3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/Trabajadores.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/UsoEmpleado.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/UsoPersona.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poo/UsoVehiculo.java" />
+    </list>
+    <ignored path="PrimerosPasos.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PrimerosPasos" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ManipulaCadenas3.java" />
+        <option value="$PROJECT_DIR$/src/graficos/Dialogos/layerOptions.java" />
+        <option value="$PROJECT_DIR$/src/graficos/Dialogos/DialogsTest.java" />
+        <option value="$PROJECT_DIR$/src/graficos/Dialogos/LayerOptions.java" />
+        <option value="$PROJECT_DIR$/src/graficos/Dialogos/Window.java" />
+        <option value="$PROJECT_DIR$/src/graficos/Dialogos/LayerLaunchTest.java" />
+        <option value="$PROJECT_DIR$/src/graficos/dialogos/LayerLaunchTest.java" />
+        <option value="$PROJECT_DIR$/src/graficos/dialogos/LayerOptions.java" />
+        <option value="$PROJECT_DIR$/src/poo/Coche.java" />
+        <option value="$PROJECT_DIR$/src/lenguaje/AccesoAplicacion.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graficos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graficos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procesadores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProcesadorMejorado.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graficos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="procesadores" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graficos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iconos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PrimerosPasos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graficos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dibujar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="NBKnowledgePane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\PrimerosPasos\src\graficos\iconos" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="graficos.Dialogos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DialogsTest">
+    <configuration default="false" name="DialogsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="graficos.Dialogos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="graficos.Dialogos.DialogsTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PrimerosPasos" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PrimerosPasos" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.DialogsTest" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.DialogsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a186d15-7ec8-4eb0-936a-5deffd69bcd8" name="Default" comment="" />
+      <created>1477691999546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477691999546</updated>
+      <workItem from="1477692004560" duration="285000" />
+      <workItem from="1477693067608" duration="4739000" />
+      <workItem from="1477698619495" duration="1099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6123000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18636848" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/LayerLaunchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/LayerOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/DialogsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ManipulaCadenas3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/Calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/ButtonGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="138" column="39" selection-start-line="138" selection-start-column="39" selection-end-line="138" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ManipulaCadenas3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/LibreDisposicion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/LayerLaunchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/LayerOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dibujar/ChequearFuente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/poo/Coche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lenguaje/AccesoAplicacion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graficos/dialogos/DialogsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
