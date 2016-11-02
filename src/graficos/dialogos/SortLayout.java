@@ -1,6 +1,9 @@
 package graficos.dialogos;
 
-import java.awt.*;
+import java.awt.Component;
+import java.awt.Container;
+import java.awt.Dimension;
+import java.awt.LayoutManager;
 
 /**
  * Created by User on 1/11/2016.

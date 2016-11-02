@@ -1,6 +1,7 @@
 package graficos.dialogos;
 
-import javax.swing.*;
+import javax.swing.JButton;
+import javax.swing.JPanel;
 
 /**
  * Created by User on 28/10/2016.
