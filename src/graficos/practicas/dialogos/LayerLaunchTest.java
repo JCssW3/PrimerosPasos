@@ -1,4 +1,4 @@
-package graficos.dialogos;
+package graficos.practicas.dialogos;
 
 import javax.swing.JButton;
 import javax.swing.JPanel;
