@@ -21,6 +21,7 @@ public class LayerOptions extends JPanel {
 
             JRadioButton rdb = new JRadioButton(option);
             rdb.setFont(new Font("Dialog",Font.ITALIC,12));
+            rdb.setActionCommand(option);
 
             bgp.add(rdb);
             rdb.setSelected(bgp.getButtonCount() == 1);
@@ -29,6 +30,10 @@ public class LayerOptions extends JPanel {
 
         }
 
+    }
+
+    public String getSelected(){
+        return bgp.getSelection().getActionCommand();
     }
 
 }

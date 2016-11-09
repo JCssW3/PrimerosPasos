@@ -8,7 +8,7 @@ import java.awt.GridLayout;
  */
 public class ConfigLayer extends JPanel {
 
-    LayerOptions pnlMethod, pnlMessageType, pnlMessage, pnlOptions, pnlOptionType, pnlInputMethod;
+    private LayerOptions pnlMethod, pnlMessageType, pnlMessage, pnlOptions, pnlOptionType, pnlInputMethod;
 
     public ConfigLayer() {
         setLayout(new GridLayout(2, 3));
@@ -60,6 +60,10 @@ public class ConfigLayer extends JPanel {
         this.add(pnlOptionType);
         this.add(pnlInputMethod);
 
+    }
+
+    public JPanel[] getPanels(){
+        return new JPanel[]{pnlMethod, pnlMessageType, pnlMessage, pnlOptions, pnlOptionType, pnlInputMethod};
     }
 
 }

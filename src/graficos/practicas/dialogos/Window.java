@@ -16,8 +16,11 @@ public class Window extends JFrame{
         setResizable(false); // que no se dimensione
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        add(new ConfigLayer(), BorderLayout.CENTER);
-        add(new LayerLaunchTest(), BorderLayout.SOUTH);
+        ConfigLayer configLayer = new ConfigLayer();
+
+        add(configLayer, BorderLayout.CENTER);
+        add(new LayerLaunchTest(configLayer), BorderLayout.SOUTH);
+
         setVisible(true);
 
     }
